@@ -9,9 +9,9 @@
 
     //Remote Database Connection
 	$servername = "remotemysql.com";
-	$username = "687xxHsIvv";
-	$password = "aP8r6ouxBG";
-	$dbname = "687xxHsIvv";
+	$username = "3buuqqiz6a";
+	$password = "UEHdYWoq30";
+	$dbname = "3buuqqiz6a";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
