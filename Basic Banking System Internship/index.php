@@ -16,7 +16,7 @@
 			</ul>
 		</div>
 		<div class="content">
-			<h1>Welcome to <br>KVK BANKS</h1>
+			<h1>Welcome to <br>PRANEETH BANKS</h1>
 			<p>Fresh Paint and Bright Smiles make it life.<br>And Our Bank make it happen for You
 			</p>
 			<div>
